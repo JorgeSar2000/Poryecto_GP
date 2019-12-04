@@ -1,0 +1,440 @@
+
+
+
+.cabecera {
+	text-align: center;
+	font-size: 200%;
+	border-style: dashed;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.sup1 {
+	background-color:#EAEC38;
+}
+
+.superior p {
+	background: #EAEC38;
+	border-style: dashed;
+	padding: 1.2%;
+}
+
+.sup1 {
+	
+	width: 25%;
+	position: absolute;
+	text-align: justify;
+	top: 40%;
+	right: 1%;
+}
+
+.sup2 {
+	
+	width: 25%;
+	text-align: justify;
+	position: absolute;
+	right: 1%;
+	top: 67%;
+
+
+}
+
+.sup3 {
+	
+	width: 25%;
+	position: absolute;
+	right: 1%;
+	top: 13%;
+	text-align: justify;
+}
+
+.cent1 {
+	width: 45%;
+	position: absolute;
+	top: 100%;
+	text-align: justify;
+	font: oblique bold 80% cursive;
+}
+
+.pag {
+	position: absolute;
+	top: 150%;
+	left: 25%;
+	
+	font: small-caps 250% serif;
+}
+
+.superior h1 {
+	position: absolute;
+	top: 7%;
+	left: 9%;
+	border-style: dashed;
+	padding: 1.5%;
+}
+
+.ima_html {
+	position: absolute;
+	left: 10%;
+	top: 20%;
+}
+
+.superior h1 {
+	position: absolute;
+	top: 76%;
+	left: 40%;
+	font-size: 200%;
+	border-style: dashed;
+	padding: 1.5%;
+}
+
+.elemento_raiz {
+	position: absolute;
+	top: 105%;
+}
+
+.ele {
+	position: absolute;
+	top: 95%;
+	background: #B6D0F7;
+	padding: 0.5%;
+}
+
+.metadatos {
+	position: absolute;
+	top: 105%;
+	left: 15%;
+}
+
+.meta {
+	position: absolute;
+	top: 95%;
+	left: 15%;
+	background: #B6D0F7;
+	padding: 0.5%;
+}
+
+.secc {
+	position: absolute;
+	top: 95%;
+	left: 26%;
+	background: #B6D0F7;
+	padding: 0.5%;
+}
+
+.secciones {
+	position: absolute;
+	top: 105%;
+	left: 26%;
+}
+
+.bloq {
+	position: absolute;
+	top: 95%;
+	left: 35%;
+	background: #B6D0F7;
+	padding: 0.5%;
+}
+
+.bloques_contenido {
+	position: absolute;
+	top: 105%;
+	left: 38.5%;
+}
+
+.text {
+	position: absolute;
+	top: 95%;
+	left: 53.5%;
+	background: #B6D0F7;
+	padding: 0.5%;
+
+}
+
+.texto_linea {
+	position: absolute;
+	top: 105%;
+	left: 55%;
+}
+
+.mod {
+	position: absolute;
+	top: 95%;
+	left: 67%;
+	background: #B6D0F7;
+	padding: 0.5%;
+}
+
+.modificaciones {
+	position: absolute;
+	top: 105%;
+	left: 69%;
+}
+
+.cont {
+	position: absolute;
+	top: 95%;
+	left: 80%;
+	background: #B6D0F7;
+	padding: 0.5%;
+}
+
+.contenido {
+	position: absolute;
+	top: 105%;
+	left: 83%; 
+}
+
+
+.imagen {
+	position: absolute;
+	top: 195%;
+	left: 38%;
+}
+
+.pag {
+	position: absolute;
+	top: 220%;
+	
+
+}
+
+.video {
+	position: absolute;
+	top: 150%;
+	left: 35%;
+}
+
+
+@media (max-width: 1024px) {
+	
+	.cabecera h1 {
+		text-align: center;
+		font-size: 5em;
+		color: red;
+	}
+
+	.superior h1 {
+		text-align: center;
+		font-size: 2.5em;
+	}
+
+	.ima_html {
+		text-align: center;
+		display: block;
+	}
+
+	.sup1 {
+		text-align: justify;
+		width: 18em;
+		border-style: groove;
+		padding: 0.3em;
+		padding-bottom: 2em;
+	}
+
+	.sup2 {
+		text-align: justify;
+		width: 18em;
+		position: absolute;
+		right: 0.1em;
+		top: 34em;
+		border-style: groove;
+		padding: 0.3em;
+		padding-bottom: 6.5em;
+	}
+
+	.sup3 {
+		position: absolute;
+		text-align: justify;
+		border-style: groove;
+		padding: 0.3em;
+		width: 18em;
+		top: 34em;
+		left: 23em;
+		padding-bottom: 1em;
+	}
+
+	.imagen {
+		text-align: center;
+	}
+
+	.elemento_raiz {
+		
+		margin-right: 50em;
+
+	}
+	
+	.metadatos {
+		border-style: groove;
+		margin-right: 50em;
+	}
+
+	.secciones {
+		
+		margin-right: 50em;
+	}
+
+	.bloques_contenido {
+		position: absolute;
+		
+		margin-right: 50em;
+		top: 53em;
+		left: 35em;
+	}
+
+	.texto_linea {
+		position: absolute;
+		top: 53em;
+		margin-left: 51.5em;
+	}
+
+	.modificaciones {
+		
+		margin-right: 50em;	
+	}
+
+	.metadatos {
+		position: absolute;
+		top: 73em;
+	}
+
+	.contenido {
+		position: absolute;
+		margin-right: 50em;
+		top: 72em;
+		left: 52em;
+	}
+
+	.secciones {
+		position: absolute;
+		top: 51.9em;
+		left: 20em;
+		margin-right: 100em;
+		
+	}
+
+	.secc h3 {
+		position: absolute;
+		top: 42.3em;
+		left: 17em;
+	}
+
+	.bloq2 h3 {
+		position: absolute;
+		top:42.3em;
+		left: 27.5em;
+	}
+
+	.text2 h3 {
+		position: absolute;
+		top: 42.3em;
+		left: 43.5em;
+	}
+
+	.meta h3 {
+		position: absolute;
+		top: 60em;
+		
+	}
+
+	.cont h3{
+		position: absolute;
+		top: 60em;
+		right: 1em;
+	}
+
+	.video {
+		text-align: center;
+	}
+
+	.pag {
+		text-align: center;
+	}
+}
+
+@media (max-width: 360px) {
+
+	body {
+		background: white;
+	}
+	
+	.cabecera h1 {
+		text-align: center;
+		font-size: 1.5em;
+	}
+
+	.superior h1 {
+		text-align: center;
+	}
+
+	.ima_html {
+		text-align: center;
+	}
+
+	.sup1 {
+		text-align: justify;
+		width: 9.5em;
+		border-style: groove;
+		padding: 0.3em;
+	}
+
+	.sup2 {
+		text-align: justify;
+		width: 9.5em;
+		position: absolute;
+		right: 0.1em;
+		top: 19em;
+		border-style: groove;
+		padding: 0.3em;
+	}
+
+	.sup3 {
+		text-align: justify;
+		border-style: groove;
+		padding: 0.3em;
+	}
+
+	.imagen {
+		text-align: center;
+	}
+
+	.elemento_raiz {
+		border-style: groove;
+		margin-right: 10em;
+	}
+	
+	.metadatos {
+		border-style: groove;
+		margin-right: 10em;
+	}
+
+	.secciones {
+		border-style: groove;
+		margin-right: 10em;
+	}
+
+	.bloques_contenido {
+		border-style: groove;
+		margin-right: 10em;
+	}
+
+	.texto_linea {
+		border-style: groove;
+		margin-right: 10em;
+	}
+
+	.modificaciones {
+		border-style: groove;
+		margin-right: 10em;	
+	}
+
+	.contenido {
+		border-style: groove;
+		margin-right: 10em;
+		margin-bottom: 0.1em;
+	}
+
+	.video {
+		
+
+	}
+}

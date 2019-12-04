@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>PRACTICA</title>
+</head>
+<body>
+	<section>
+		<article class="cabecera">
+			<h1>TITULO DE PAGINA</h1>
+		</article>
+
+		<article class="superior">
+			<p class="sup1">
+				
+			</p>
+
+			<p class="sup2">
+				
+			</p>
+
+			<p class="sup3">
+				
+			</p>
+		</article>
+
+		<article class="central">
+			<p class="cent1">
+				
+			</p>
+
+			<p class="cent2">
+				
+			</p>
+		</article>
+
+		<article class="contenido">
+			
+		</article>
+
+		<article class="inferior">
+			<p class="inf1">
+				
+			</p>
+
+			<p class="inf2">
+				
+			</p>
+
+			<p class="inf3">
+				
+			</p>
+		</article>
+
+		
+	</section>
+	<footer>
+		
+	</footer>
+	
+</body>
+</html>
